@@ -1,12 +1,18 @@
-# Omnisculence
+## Omnisculence
+**noun**
 
-Coined term by Enad, Pacheco
-Date: 04 February 2026
-Origin: Philippines
+**Definition:**  
+A complex, unified emotional state in which multiple, often contradictory emotions are experienced simultaneously and cannot be reduced to a single identifiable feeling.
 
-Definition:
-Omnisculence is a complex affective state characterized by the simultaneous presence of multiple, often contradictory emotions, producing a unified emotional experience that resists linguistic categorization.
+**Etymology:**  
+Coined term formed from omni meaning “all” and the stylized suffix sculence, created to denote emotional convergence.
 
-Examples:
-Winning the lottery felt like omnisculence.
-This omnisculence will last a lifetime.
+**Origin:**  
+Coined by Enad, Pacheco  
+Date: 04 February 2026  
+Location: Philippines
+
+**Usage examples:**  
+Winning the lottery felt like omnisculence.  
+This omnisculence will last a lifetime.  
+Graduation day was filled with omnisculence.
